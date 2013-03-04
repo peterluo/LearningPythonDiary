@@ -13,5 +13,26 @@
   git commit -m "代码提交信息"  
   
 5.将本地代码仓库中代码push到gitHub上
-  （1）创建分支
+  （1）首先需要用我们在gitHub上的邮箱与用户名生成一个.ssh（id_rsa.pub）
+       git config --global user.name "Your Name Here"
+       # Sets the default name for git to use when you commit
+	   
+	   git config --global user.email "your_email@example.com"
+       # Sets the default email for git to use when you commit
+	   
+	   然后将生成的id_rsa.pub 中最后== 添加上自己在gitHub上的邮箱地址，全选一起拷贝到在gitHub上同样项目的 domay key中。
+	   
+  （2）然后在git中创建主干线(ssh方式)
+       git remote add origin git@github.com:username/LearningPythonDiary.git
+	   也可以这样创建（https方式）：
+	   git remote add origin https://github.com/username/LearningPythonDiary.git
+	   不过这样创建就是每次提交的时候都要输入用户名与密码，比较繁琐。
+	   
+  （3）push到github中的同名项目中
+       git push origin master
+
+6.将gitHub上的代码更新到本地
+  git pull origin master	   
+       	   
+       
        
