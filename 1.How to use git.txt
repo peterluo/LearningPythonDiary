@@ -1,0 +1,17 @@
+1.使用git bash创建一个文件夹
+  cd g:
+  cd GitLearning
+  mkdir LearningPythonDiary
+ 
+2.初始化代码仓库
+  git init
+
+3.添加一个文件到仓库的缓存区（从工作目录添加到缓存区）
+  git add filename
+  
+4.将添加的文件从缓存区提交到HEAD（最近一次提交后的结果）
+  git commit -m "代码提交信息"  
+  
+5.将本地代码仓库中代码push到gitHub上
+  （1）创建分支
+       
