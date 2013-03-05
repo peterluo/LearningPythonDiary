@@ -34,5 +34,7 @@
 6.将gitHub上的代码更新到本地
   git pull origin master	   
        	   
-       
+7.从gitHub上复制项目到本地localhost
+  git clone https://github.com/username/LearningPythonDiary.git master
+        
        
