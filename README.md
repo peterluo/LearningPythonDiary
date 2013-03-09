@@ -14,3 +14,5 @@ Learning this language in next 2 weeks.And I will write diary every day!
 [Python的基础数据类型](https://github.com/peterluo/LearningPythonDiary/blob/master/3.Python's%20data%20types.md "基础数据类型")  
 ##4 day
 [深入流程控制](https://github.com/peterluo/LearningPythonDiary/blob/master/4.More%20Control%20Flow%20Tools.md "循环语句以及程序函数")
+##5 day
+[数据结构](https://github.com/peterluo/LearningPythonDiary/blob/master/LearningLog/5.Data%20Structures.md)
