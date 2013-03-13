@@ -19,4 +19,6 @@ Learning this language in next 2 weeks.And I will write diary every day!
 ##6 day：
 [模块](https://github.com/peterluo/LearningPythonDiary/blob/master/LearningLog/6.Modules.md) [fibo.py](https://github.com/peterluo/LearningPythonDiary/blob/master/LearningLog/fibo.py)
 ##7 day:
-[输入输出](https://github.com/peterluo/LearningPythonDiary/blob/master/LearningLog/7.Input%20and%20Output.md)
+[输入输出](https://github.com/peterluo/LearningPythonDiary/blob/master/LearningLog/7.Input%20and%20Output.md)  
+##8 day
+[错误和异常](https://github.com/peterluo/LearningPythonDiary/blob/master/LearningLog/8.Errors%20and%20Exceptions.md)
