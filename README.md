@@ -24,3 +24,5 @@ Learning this language in next 2 weeks.And I will write diary every day!
 [错误和异常](https://github.com/peterluo/LearningPythonDiary/blob/master/LearningLog/8.Errors%20and%20Exceptions.md)
 ##9 day
 [类](https://github.com/peterluo/LearningPythonDiary/blob/master/LearningLog/9.Classes.md)
+##10 day
+[一些标准库的简单介绍](https://github.com/peterluo/LearningPythonDiary/blob/master/LearningLog/10.Brief%20Tour%20of%20the%20Standard%20Library.md)
